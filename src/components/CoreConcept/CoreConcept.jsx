@@ -1,6 +1,6 @@
-import '../index.css';
+import '../../index.css';
 
-export default function CoreConcepts(props) {
+export default function CoreConcept(props) {
     return (
         <li>
         <img src={props.image} alt={props.title} />
